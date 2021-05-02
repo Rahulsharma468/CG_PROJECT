@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1619897958 source:c:\users\sharm\onedrive\desktop\lab\searching\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<GL/glu.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1618427087 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1618427087 c:\program files (x86)\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
